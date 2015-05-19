@@ -20,6 +20,10 @@
             android:name=".Tampilan1"
             android:label="@string/title_activity_tampilan1" >
         </activity>
+        <activity
+            android:name=".tampilan2"
+            android:label="@string/title_activity_tampilan2" >
+        </activity>
     </application>
 
 </manifest>
